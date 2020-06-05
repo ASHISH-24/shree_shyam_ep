@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ShreeShyamEp.urls'
+ROOT_URLCONF = 'shree_shyam_ep.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ShreeShyamEp.wsgi.application'
+WSGI_APPLICATION = 'shree_shyam_ep.wsgi.application'
 
 
 # Database
