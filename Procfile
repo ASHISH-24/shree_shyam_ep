@@ -1,0 +1,1 @@
+web: python manage.py migrate;gunicorn shree_shyam_ep.wsgi
